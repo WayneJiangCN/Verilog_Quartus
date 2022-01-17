@@ -12,6 +12,10 @@
 
 关键字：**wire**
 
+例如
+
+![image-20220117235726688](C:\Arm\FPGA\Verilog\note\Verilog\image\image-20220117235726688.png)
+
 
 
 
